@@ -1,0 +1,21 @@
+body{
+  background-color: 	#8B0000;
+}
+.container{
+  background-color: #C0C0C0;
+}
+.logo-img {
+  width: 50% ;
+}
+
+#img-beatles{
+  width: 100%;
+}
+.contenedor-blog{
+  padding-left: 3px;
+}
+
+.nav-pills{
+  width: 100%;
+  background-color: red;
+}
